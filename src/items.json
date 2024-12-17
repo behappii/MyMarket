@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Стул",
+            "description": "just a usual chair",
+            "price": "2990",
+            "img": "chair.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Стол",
+            "description": "just a usual table",
+            "price": "4990",
+            "img": "table.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Шкаф",
+            "description": "just a usual wardrobe",
+            "price": "19990",
+            "img": "wardrobe.jpg"
+        }
+    ]
+}
